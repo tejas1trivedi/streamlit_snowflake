@@ -1,0 +1,14 @@
+snowflake
+pandas
+python
+URLError
+streamlit
+requests
+snowflake
+pandas
+streamlit
+requests
+ydata_profiling
+snowflake-snowpark-python
+streamlit_option_menu
+numpy
