@@ -93,7 +93,7 @@ if selected == 'Data Browser':
         status = st.radio("Select any one stage : ", ('Internal Satge', 'External Stage(S3)'),index=None)
 
     # conditional statement to print 
-    if (status == 'Internal Satge'):
+    if (status == 'Internal Stage'):
         st.success("You have selected Internal Stage")
     elif (status=='External Stage(S3)'):
         st.success("You have selected External Stage(S3)")
