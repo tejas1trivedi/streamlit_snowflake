@@ -285,7 +285,7 @@ if selected == 'Data Browser':
 
             st.markdown("""<hr style="height:2px;border:none;color:#1E96DE;background-color:#1E96DE;" /> """, unsafe_allow_html=True)
 
-            st.subheader("Data Ingestion :")
+            st.subheader("💾Data Ingestion :")
             #edited_df = st.data_editor(dataframe_select)
 
             #Data Ingestion into snowflake based on user selection
